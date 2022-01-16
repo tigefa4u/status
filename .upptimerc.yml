@@ -1,31 +1,38 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: tigefa4u # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Tigefa
+    url: https://tigefa.com
+  - name: Tigefa blog
+    url: https://tigefa.my.id
+    icon: https://tigefa.my.id/favicon.ico
+  - name: Plausible
+    url: https://plausible.my.id
+  - name: PrivateBin
+    url: https://privatebin.my.id
+  - name: Yourls
+    url: https://urls.my.id
+  - name: Kodev
+    url: https://kodev.my.id
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.tigefa.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Tigefa Status
+  theme: night
+  customHeadHtml: "<script defer data-domain="tigefa.com" src="https://plausible.my.id/js/plausible.js"></script>"
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Tigefa
+      href: https://tigefa.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
