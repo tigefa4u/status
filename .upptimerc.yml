@@ -16,6 +16,8 @@ sites:
     url: https://privatebin.my.id
   - name: Yourls
     url: https://urls.my.id
+  - name: cURLs.top
+    url: https://curls.top 
   - name: Kodev
     url: https://kodev.my.id
 
