@@ -11,6 +11,9 @@ sites:
     icon: https://tigefa.net/favicon.ico
   - name: Minio
     url: https://tigefa.site
+  - name: Tigefa.win
+    url: https://tigefa.win
+    icon: https://tigefa.win/favicon.ico
   - name: Tigefa blog
     url: https://tigefa.my.id
     icon: https://tigefa.my.id/favicon.ico
