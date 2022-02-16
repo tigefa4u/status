@@ -15,6 +15,9 @@ sites:
   - name: Tigefa.win
     url: https://tigefa.win
     icon: https://tigefa.win/favicon.ico
+  - name: Tigefa.pw
+    url: https://tigefa.pw
+    icon: https://tigefa.pw/favicon.ico
   - name: Tigefa blog
     url: https://tigefa.my.id
     icon: https://tigefa.my.id/favicon.ico
