@@ -27,6 +27,8 @@ sites:
     url: https://privatebin.my.id
   - name: Yourls
     url: https://urls.my.id
+  - name: tgfa.my.id
+    url: https://tgfa.my.id
   - name: cURLs.top
     url: https://curls.top 
   - name: Kodev
