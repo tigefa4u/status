@@ -26,19 +26,19 @@
     "url": "https://tigefa.net",
     "icon": "https://tigefa.net/favicon.ico",
     "slug": "tigefa-neet",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1232,
     "timeDay": 951,
-    "timeWeek": 920,
+    "timeWeek": 921,
     "timeMonth": 921,
     "timeYear": 1232,
     "dailyMinutesDown": {
-      "2022-03-20": 0
+      "2022-03-20": 6
     }
   },
   {
