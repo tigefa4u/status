@@ -21,6 +21,12 @@ sites:
   - name: Tigefa.info
     url: https://www.tigefa.info
     icon: https://www.tigefa.info/favicon.ico
+  - name: Tigefa.co
+    url: https://tigefa.co
+    icon: https://tigefa.co/favicon.ico
+  - name: Tigefa.live
+    url: https://tigefa.live
+    icon: https://tigefa.live/favicon.ico
   - name: Tigefa blog
     url: https://tigefa.my.id
     icon: https://tigefa.my.id/favicon.ico
