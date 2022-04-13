@@ -30,6 +30,8 @@ sites:
   - name: Tigefa.my.id
     url: https://tigefa.my.id
     icon: https://tigefa.my.id/favicon.ico
+  - name: Tigefa.xyz
+    url: https://tigefa.xyz
   - name: Plausible
     url: https://plausible.my.id
   - name: Commento
