@@ -4,10 +4,10 @@ runner: [ubuntu-latest]
 user-agent: tigefa4u
 
 sites:
-  - name: Tigefa
+  - name: Tigefa.com
     url: https://tigefa.com
     icon: https://tigefa.com/favicon.ico
-  - name: Tigefa Neet
+  - name: Tigefa.net
     url: https://tigefa.net
     icon: https://tigefa.net/favicon.ico
   - name: Tigefa.site
@@ -32,13 +32,13 @@ sites:
     icon: https://tigefa.my.id/favicon.ico
   - name: Tigefa.xyz
     url: https://tigefa.xyz
-  - name: Plausible
+  - name: Plausible.my.id
     url: https://plausible.my.id
-  - name: Commento
+  - name: Commento.my.id
     url: https://commento.my.id
-  - name: PrivateBin
+  - name: PrivateBin.my.id
     url: https://privatebin.my.id
-  - name: Yourls
+  - name: Urls.my.id
     url: https://urls.my.id
   - name: tgfa.my.id
     url: https://tgfa.my.id
@@ -46,7 +46,7 @@ sites:
     url: https://curls.top
   - name: cekip.my.id
     url: https://cekip.my.id
-  - name: Kodev
+  - name: Kodev.my.id
     url: https://kodev.my.id
 
 status-website:
