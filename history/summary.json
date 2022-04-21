@@ -79,18 +79,18 @@
     "icon": "https://tigefa.pw/favicon.ico",
     "slug": "tigefa-pw",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.64%",
+    "uptime": "99.30%",
+    "uptimeDay": "78.01%",
+    "uptimeWeek": "96.86%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.30%",
     "time": 876,
     "timeDay": 539,
     "timeWeek": 870,
     "timeMonth": 850,
     "timeYear": 876,
     "dailyMinutesDown": {
-      "2022-04-21": 1,
+      "2022-04-21": 317,
       "2022-03-07": 186,
       "2022-02-22": 144
     }
@@ -208,9 +208,9 @@
     "url": "https://commento.my.id",
     "icon": "https://favicons.githubusercontent.com/commento.my.id",
     "slug": "commento-my-id",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.91%",
     "uptimeWeek": "99.59%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.59%",
@@ -220,6 +220,7 @@
     "timeMonth": 2021,
     "timeYear": 2021,
     "dailyMinutesDown": {
+      "2022-04-21": 1,
       "2022-04-16": 40
     }
   },
@@ -273,7 +274,7 @@
     "time": 187,
     "timeDay": 150,
     "timeWeek": 163,
-    "timeMonth": 189,
+    "timeMonth": 188,
     "timeYear": 187,
     "dailyMinutesDown": {}
   },
@@ -291,7 +292,7 @@
     "time": 408,
     "timeDay": 396,
     "timeWeek": 708,
-    "timeMonth": 413,
+    "timeMonth": 412,
     "timeYear": 408,
     "dailyMinutesDown": {}
   },
@@ -318,17 +319,19 @@
     "url": "https://kodev.my.id",
     "icon": "https://favicons.githubusercontent.com/kodev.my.id",
     "slug": "kodev-my-id",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1699,
-    "timeDay": 880,
-    "timeWeek": 1699,
-    "timeMonth": 1699,
-    "timeYear": 1699,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1643,
+    "timeDay": 1037,
+    "timeWeek": 1643,
+    "timeMonth": 1643,
+    "timeYear": 1643,
+    "dailyMinutesDown": {
+      "2022-04-21": 2
+    }
   }
 ]
