@@ -32,6 +32,9 @@ sites:
     icon: https://tigefa.my.id/favicon.ico
   - name: Tigefa.xyz
     url: https://tigefa.xyz
+  - name: sugeng.win
+    url: https://sugeng.win
+    icon: https://sugeng.win/favicon.ico
   - name: Plausible.my.id
     url: https://plausible.my.id
   - name: Commento.my.id
