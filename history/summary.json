@@ -4,19 +4,19 @@
     "url": "https://tigefa.com",
     "icon": "https://tigefa.com/favicon.ico",
     "slug": "tigefa-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1184,
-    "timeDay": 940,
-    "timeWeek": 1314,
-    "timeMonth": 1184,
-    "timeYear": 1184,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "97.77%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 1230,
+    "timeDay": 1387,
+    "timeWeek": 1379,
+    "timeMonth": 1230,
+    "timeYear": 1230,
     "dailyMinutesDown": {
-      "2022-04-26": 1
+      "2022-04-26": 32
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://tigefa.net",
     "icon": "https://tigefa.net/favicon.ico",
     "slug": "tigefa-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1638,
-    "timeDay": 1516,
-    "timeWeek": 1692,
-    "timeMonth": 1638,
-    "timeYear": 1638,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.81%",
+    "time": 1640,
+    "timeDay": 1594,
+    "timeWeek": 1690,
+    "timeMonth": 1640,
+    "timeYear": 1640,
     "dailyMinutesDown": {
-      "2022-04-26": 0
+      "2022-04-26": 32
     }
   },
   {
@@ -53,7 +53,7 @@
     "time": 494,
     "timeDay": 450,
     "timeWeek": 557,
-    "timeMonth": 493,
+    "timeMonth": 492,
     "timeYear": 494,
     "dailyMinutesDown": {
       "2022-04-24": 117,
