@@ -49,8 +49,8 @@
     "status": "down",
     "uptime": "95.59%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "46.36%",
-    "uptimeMonth": "87.54%",
+    "uptimeWeek": "46.33%",
+    "uptimeMonth": "87.53%",
     "uptimeYear": "95.59%",
     "time": 500,
     "timeDay": 456,
@@ -58,7 +58,7 @@
     "timeMonth": 625,
     "timeYear": 500,
     "dailyMinutesDown": {
-      "2022-06-21": 1329,
+      "2022-06-21": 1332,
       "2022-06-20": 1440,
       "2022-06-19": 1440,
       "2022-06-18": 1197,
@@ -223,18 +223,18 @@
     "icon": "https://favicons.githubusercontent.com/tigefa.web.id",
     "slug": "tigefa-web-id",
     "status": "down",
-    "uptime": "0.31%",
-    "uptimeDay": "0.31%",
-    "uptimeWeek": "0.31%",
-    "uptimeMonth": "0.31%",
-    "uptimeYear": "0.31%",
+    "uptime": "0.16%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "0.16%",
+    "uptimeMonth": "0.16%",
+    "uptimeYear": "0.16%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-21": 2
+      "2022-06-21": 5
     }
   },
   {
