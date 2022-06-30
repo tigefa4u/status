@@ -10,8 +10,6 @@ sites:
   - name: Tigefa.net
     url: https://tigefa.net
     icon: https://tigefa.net/favicon.ico
-  - name: Tigefa.site
-    url: https://tigefa.site
   - name: Tigefa.win
     url: https://tigefa.win
     icon: https://tigefa.win/favicon.ico
