@@ -49,7 +49,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.tigefa.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/tigefa4u/status/master/assets/tigefa-cover.png
   name: Tigefa Status
   theme: ocean
 #  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
