@@ -1,48 +1,54 @@
 owner: tigefa4u # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
-runner: [ubuntu-latest]
+runner: [ubuntu-22.04]
 user-agent: tigefa4u
 
 sites:
   - name: Tigefa.com
     url: https://tigefa.com
-    icon: https://tigefa.com/favicon.ico
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
   - name: Tigefa.net
     url: https://tigefa.net
-    icon: https://tigefa.net/favicon.ico
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
   - name: Tigefa.win
     url: https://tigefa.win
-    icon: https://tigefa.win/favicon.ico
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
   - name: Tigefa.pw
     url: https://tigefa.pw
-    icon: https://tigefa.pw/favicon.ico
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
   - name: Tigefa.info
     url: https://www.tigefa.info
-    icon: https://www.tigefa.info/favicon.ico
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
   - name: Tigefa.co
     url: https://tigefa.co
-    icon: https://tigefa.co/favicon.ico
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
   - name: Tigefa.live
     url: https://tigefa.live
-    icon: https://tigefa.live/favicon.ico
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
   - name: Tigefa.my.id
     url: https://tigefa.my.id
-    icon: https://tigefa.my.id/favicon.ico
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
   - name: Tigefa.xyz
     url: https://tigefa.xyz
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
   - name: Tigefa.web.id
     url: https://tigefa.web.id
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
   - name: sugeng.win
     url: https://sugeng.win
-    icon: https://sugeng.win/favicon.ico
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
   - name: tgfa.my.id
     url: https://tgfa.my.id
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
   - name: cURLs.top
     url: https://curls.top
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
   - name: cekip.my.id
     url: https://cekip.my.id
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
   - name: Kodev.my.id
     url: https://kodev.my.id
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -50,6 +56,7 @@ status-website:
   cname: status.tigefa.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/tigefa4u/status/master/assets/tigefa-cover.png
+  favicon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
   name: Tigefa Status
   theme: ocean
 #  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
