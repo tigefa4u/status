@@ -34,6 +34,9 @@ sites:
   - name: Tigefa.web.id
     url: https://tigefa.web.id
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
+  - name: Tigefa.icu
+    url: https://tigefa.icu
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
   - name: sugeng.win
     url: https://sugeng.win
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
@@ -45,6 +48,9 @@ sites:
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
   - name: cekip.my.id
     url: https://cekip.my.id
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
+  - name: loog.my.id
+    url: https://loog.my.id
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon.ico
   - name: Kodev.my.id
     url: https://kodev.my.id
