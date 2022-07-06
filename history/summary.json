@@ -13,7 +13,7 @@
     "time": 1290,
     "timeDay": 185,
     "timeWeek": 1115,
-    "timeMonth": 1345,
+    "timeMonth": 1350,
     "timeYear": 1290,
     "dailyMinutesDown": {
       "2022-07-03": 41,
@@ -34,7 +34,7 @@
     "time": 1391,
     "timeDay": 189,
     "timeWeek": 877,
-    "timeMonth": 1084,
+    "timeMonth": 1075,
     "timeYear": 1391,
     "dailyMinutesDown": {
       "2022-07-03": 17,
@@ -58,7 +58,7 @@
     "time": 159,
     "timeDay": 498,
     "timeWeek": 240,
-    "timeMonth": 206,
+    "timeMonth": 208,
     "timeYear": 159,
     "dailyMinutesDown": {}
   },
@@ -99,7 +99,7 @@
     "time": 275,
     "timeDay": 279,
     "timeWeek": 309,
-    "timeMonth": 290,
+    "timeMonth": 292,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2022-06-28": 22
@@ -140,7 +140,7 @@
     "time": 352,
     "timeDay": 420,
     "timeWeek": 495,
-    "timeMonth": 914,
+    "timeMonth": 924,
     "timeYear": 352,
     "dailyMinutesDown": {
       "2022-06-21": 38,
@@ -161,7 +161,7 @@
     "time": 183,
     "timeDay": 218,
     "timeWeek": 210,
-    "timeMonth": 199,
+    "timeMonth": 200,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2022-06-21": 17,
@@ -245,7 +245,7 @@
     "time": 351,
     "timeDay": 374,
     "timeWeek": 243,
-    "timeMonth": 429,
+    "timeMonth": 436,
     "timeYear": 351,
     "dailyMinutesDown": {
       "2022-06-21": 16,
@@ -266,7 +266,7 @@
     "time": 199,
     "timeDay": 148,
     "timeWeek": 217,
-    "timeMonth": 792,
+    "timeMonth": 805,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2022-05-31": 15
@@ -286,7 +286,7 @@
     "time": 411,
     "timeDay": 397,
     "timeWeek": 364,
-    "timeMonth": 755,
+    "timeMonth": 763,
     "timeYear": 411,
     "dailyMinutesDown": {
       "2022-05-31": 15
@@ -306,7 +306,7 @@
     "time": 157,
     "timeDay": 465,
     "timeWeek": 187,
-    "timeMonth": 175,
+    "timeMonth": 176,
     "timeYear": 157,
     "dailyMinutesDown": {}
   },
@@ -333,18 +333,19 @@
     "url": "https://kodev.my.id",
     "icon": "https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png",
     "slug": "kodev-my-id",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.49%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.75%",
     "time": 1562,
     "timeDay": 1085,
     "timeWeek": 1087,
-    "timeMonth": 2012,
+    "timeMonth": 2033,
     "timeYear": 1562,
     "dailyMinutesDown": {
+      "2022-07-06": 2,
       "2022-06-30": 62,
       "2022-06-27": 22,
       "2022-06-21": 44,
