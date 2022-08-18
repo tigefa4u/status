@@ -49,9 +49,6 @@ sites:
   - name: cekip.my.id
     url: https://cekip.my.id
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
-  - name: loog.my.id
-    url: https://loog.my.id
-    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
   - name: Kodev.my.id
     url: https://kodev.my.id
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
