@@ -36,5 +36,5 @@ jobs:
         with:
           github_token: ${{ secrets.GH_PAT }}
           publish_dir: "site/status-page/__sapper__/export/"
-          user_name: "Tigefa Bot"
-          user_email: "tigefabot@gmail.com"
+          user_name: "Sugeng Tigefa"
+          user_email: "me@sugeng.win"
