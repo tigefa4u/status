@@ -67,10 +67,10 @@
     "url": "https://tigefa.pw",
     "icon": "https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png",
     "slug": "tigefa-pw",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 877,
@@ -79,6 +79,7 @@
     "timeMonth": 896,
     "timeYear": 877,
     "dailyMinutesDown": {
+      "2022-09-15": 1,
       "2022-06-21": 18,
       "2022-04-21": 418,
       "2022-03-07": 186,
@@ -90,10 +91,10 @@
     "url": "https://www.tigefa.info",
     "icon": "https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png",
     "slug": "tigefa-info",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 275,
@@ -102,6 +103,7 @@
     "timeMonth": 288,
     "timeYear": 275,
     "dailyMinutesDown": {
+      "2022-09-15": 1,
       "2022-06-28": 22
     }
   },
