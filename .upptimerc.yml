@@ -40,17 +40,14 @@ sites:
   - name: sugeng.win
     url: https://sugeng.win
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
-  - name: tgfa.my.id
-    url: https://tgfa.my.id
-    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
   - name: cURLs.top
     url: https://curls.top
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
+  - name: tgfa.my.id
+    url: https://tgfa.my.id
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
   - name: cekip.my.id
     url: https://cekip.my.id
-    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
-  - name: Kodev.my.id
-    url: https://kodev.my.id
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
 
 status-website:
