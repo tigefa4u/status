@@ -13,9 +13,6 @@ sites:
   - name: Tigefa.win
     url: https://tigefa.win
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
-  - name: Tigefa.pw
-    url: https://tigefa.pw
-    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
   - name: Tigefa.info
     url: https://www.tigefa.info
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
