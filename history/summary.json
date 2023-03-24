@@ -55,7 +55,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 168,
+    "time": 169,
     "timeDay": 336,
     "timeWeek": 230,
     "timeMonth": 217,
@@ -75,7 +75,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 275,
+    "time": 276,
     "timeDay": 308,
     "timeWeek": 242,
     "timeMonth": 273,
@@ -244,11 +244,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 414,
+    "time": 417,
     "timeDay": 343,
     "timeWeek": 364,
     "timeMonth": 353,
-    "timeYear": 416,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2022-09-14": 16,
       "2022-05-31": 15
@@ -265,7 +265,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
+    "time": 210,
     "timeDay": 169,
     "timeWeek": 178,
     "timeMonth": 337,
@@ -279,10 +279,10 @@
     "url": "https://cekip.my.id",
     "icon": "https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png",
     "slug": "cekip-my-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
@@ -290,6 +290,8 @@
     "timeWeek": 156,
     "timeMonth": 333,
     "timeYear": 176,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-24": 1
+    }
   }
 ]
