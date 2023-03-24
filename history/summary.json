@@ -279,19 +279,19 @@
     "url": "https://cekip.my.id",
     "icon": "https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png",
     "slug": "cekip-my-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 192,
+    "timeDay": 173,
     "timeWeek": 156,
-    "timeMonth": 333,
+    "timeMonth": 326,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2023-03-24": 1
+      "2023-03-24": 12
     }
   }
 ]
