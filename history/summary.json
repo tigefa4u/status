@@ -93,8 +93,8 @@
     "status": "down",
     "uptime": "98.23%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "5.60%",
-    "uptimeMonth": "78.28%",
+    "uptimeWeek": "5.41%",
+    "uptimeMonth": "78.23%",
     "uptimeYear": "98.18%",
     "time": 138,
     "timeDay": 0,
@@ -102,7 +102,7 @@
     "timeMonth": 119,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2023-04-04": 372,
+      "2023-04-04": 391,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
@@ -287,19 +287,19 @@
     "url": "https://cekip.my.id",
     "icon": "https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png",
     "slug": "cekip-my-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 102,
+    "timeDay": 140,
     "timeWeek": 176,
-    "timeMonth": 324,
+    "timeMonth": 320,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2023-04-04": 1
+      "2023-04-04": 18
     }
   }
 ]
