@@ -16,18 +16,6 @@ sites:
   - name: Tigefa.info
     url: https://www.tigefa.info
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
-  - name: Tigefa.co
-    url: https://tigefa.co
-    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
-  - name: Tigefa.live
-    url: https://tigefa.live
-    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
-  - name: Tigefa.xyz
-    url: https://tigefa.xyz
-    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
-  - name: Tigefa.icu
-    url: https://tigefa.icu
-    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
   - name: Tigefa.my.id
     url: https://tigefa.my.id
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
