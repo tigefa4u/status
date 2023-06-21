@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 423,
-    "timeDay": 121,
-    "timeWeek": 147,
-    "timeMonth": 144,
-    "timeYear": 244,
+    "time": 422,
+    "timeDay": 145,
+    "timeWeek": 127,
+    "timeMonth": 146,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2022-07-03": 41
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 458,
-    "timeDay": 78,
-    "timeWeek": 152,
-    "timeMonth": 147,
-    "timeYear": 225,
+    "time": 457,
+    "timeDay": 128,
+    "timeWeek": 122,
+    "timeMonth": 148,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2022-07-03": 17,
       "2022-06-28": 16
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 205,
-    "timeDay": 278,
+    "timeDay": 167,
     "timeWeek": 251,
-    "timeMonth": 262,
+    "timeMonth": 259,
     "timeYear": 218,
     "dailyMinutesDown": {
       "2022-09-15": 38
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 317,
-    "timeDay": 326,
-    "timeWeek": 1610,
-    "timeMonth": 656,
-    "timeYear": 328,
+    "time": 318,
+    "timeDay": 565,
+    "timeWeek": 1655,
+    "timeMonth": 663,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2022-09-15": 27,
       "2022-06-28": 22
@@ -93,13 +93,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
-    "timeDay": 256,
-    "timeWeek": 331,
-    "timeMonth": 256,
+    "timeDay": 223,
+    "timeWeek": 326,
+    "timeMonth": 258,
     "timeYear": 213,
-    "dailyMinutesDown": {
-      "2022-06-21": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tigefa.web.id",
@@ -113,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 236,
-    "timeWeek": 303,
-    "timeMonth": 252,
+    "timeDay": 222,
+    "timeWeek": 275,
+    "timeMonth": 253,
     "timeYear": 213,
     "dailyMinutesDown": {}
   },
@@ -131,13 +129,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 281,
-    "timeDay": 307,
-    "timeWeek": 281,
-    "timeMonth": 261,
-    "timeYear": 286,
-    "dailyMinutesDown": {
-      "2022-06-21": 16
-    }
+    "timeDay": 338,
+    "timeWeek": 208,
+    "timeMonth": 269,
+    "timeYear": 287,
+    "dailyMinutesDown": {}
   },
   {
     "name": "cURLs.top",
@@ -151,9 +147,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 437,
-    "timeDay": 349,
-    "timeWeek": 358,
-    "timeMonth": 360,
+    "timeDay": 359,
+    "timeWeek": 350,
+    "timeMonth": 362,
     "timeYear": 412,
     "dailyMinutesDown": {
       "2022-09-14": 16
@@ -171,9 +167,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 219,
-    "timeWeek": 292,
-    "timeMonth": 250,
+    "timeDay": 216,
+    "timeWeek": 276,
+    "timeMonth": 252,
     "timeYear": 295,
     "dailyMinutesDown": {}
   },
@@ -189,9 +185,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 226,
-    "timeDay": 190,
-    "timeWeek": 258,
-    "timeMonth": 237,
+    "timeDay": 161,
+    "timeWeek": 239,
+    "timeMonth": 238,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2023-04-05": 42,
