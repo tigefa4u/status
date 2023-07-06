@@ -22,7 +22,7 @@ sites:
   - name: Tigefa.web.id
     url: https://tigefa.web.id
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
-  - name: sugeng.win
+  - name: Sugeng.win
     url: https://sugeng.win
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
   - name: cURLs.top
