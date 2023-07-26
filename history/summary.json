@@ -40,18 +40,19 @@
     "url": "https://tigefa.win",
     "icon": "https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png",
     "slug": "tigefa-win",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 210,
+    "time": 211,
     "timeDay": 47,
     "timeWeek": 172,
     "timeMonth": 210,
     "timeYear": 223,
     "dailyMinutesDown": {
+      "2023-07-26": 0,
       "2022-09-15": 38
     }
   },
