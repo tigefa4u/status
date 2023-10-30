@@ -4,36 +4,40 @@
     "url": "https://tigefa.com",
     "icon": "https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png",
     "slug": "tigefa-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 106,
-    "timeWeek": 140,
-    "timeMonth": 138,
+    "timeDay": 98,
+    "timeWeek": 134,
+    "timeMonth": 137,
     "timeYear": 146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "Tigefa.net",
     "url": "https://tigefa.net",
     "icon": "https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png",
     "slug": "tigefa-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 120,
-    "timeWeek": 142,
-    "timeMonth": 149,
+    "time": 157,
+    "timeDay": 107,
+    "timeWeek": 136,
+    "timeMonth": 147,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "Tigefa.win",
@@ -79,36 +83,40 @@
     "url": "https://tigefa.my.id",
     "icon": "https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png",
     "slug": "tigefa-my-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 245,
-    "timeDay": 293,
-    "timeWeek": 911,
-    "timeMonth": 435,
+    "timeDay": 256,
+    "timeWeek": 824,
+    "timeMonth": 428,
     "timeYear": 257,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "Tigefa.web.id",
     "url": "https://tigefa.web.id",
     "icon": "https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png",
     "slug": "tigefa-web-id",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 285,
-    "timeWeek": 906,
-    "timeMonth": 541,
-    "timeYear": 263,
-    "dailyMinutesDown": {}
+    "timeDay": 250,
+    "timeWeek": 820,
+    "timeMonth": 530,
+    "timeYear": 262,
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "Sugeng.win",
@@ -159,7 +167,7 @@
     "icon": "https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png",
     "slug": "tgfa-my-id",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
