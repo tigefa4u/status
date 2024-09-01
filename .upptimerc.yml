@@ -17,7 +17,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.tigefa.com
+  cname: status.tigefa.web.id
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/tigefa4u/status/master/assets/tigefa-cover.png
   favicon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
@@ -29,7 +29,7 @@ status-website:
     - title: Status
       href: /
     - title: Tigefa
-      href: https://tigefa.com
+      href: https://tigefa.web.id
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
