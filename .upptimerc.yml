@@ -4,32 +4,11 @@ runner: [ubuntu-22.04]
 user-agent: tigefa4u
 
 sites:
-  - name: Tigefa.com
-    url: https://tigefa.com
-    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
-  - name: Tigefa.net
-    url: https://tigefa.net
-    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
-  - name: Tigefa.win
-    url: https://tigefa.win
-    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
-  - name: Tigefa.info
-    url: https://www.tigefa.info
-    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
   - name: Tigefa.my.id
     url: https://tigefa.my.id
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
   - name: Tigefa.web.id
     url: https://tigefa.web.id
-    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
-  - name: Sugeng.win
-    url: https://sugeng.win
-    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
-  - name: cURLs.top
-    url: https://curls.top
-    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
-  - name: tgfa.my.id
-    url: https://tgfa.my.id
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
   - name: cekip.my.id
     url: https://cekip.my.id
