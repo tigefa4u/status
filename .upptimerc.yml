@@ -1,6 +1,6 @@
 owner: tigefa4u # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
-runner: [ubuntu-22.04]
+runner: [ubuntu-24.04]
 user-agent: tigefa4u
 
 sites:
