@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 340,
-    "timeWeek": 353,
-    "timeMonth": 323,
-    "timeYear": 298,
+    "timeDay": 348,
+    "timeWeek": 356,
+    "timeMonth": 325,
+    "timeYear": 299,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 283,
-    "timeDay": 323,
-    "timeWeek": 319,
-    "timeMonth": 323,
+    "timeDay": 335,
+    "timeWeek": 325,
+    "timeMonth": 325,
     "timeYear": 286,
     "dailyMinutesDown": {}
   },
@@ -47,14 +47,32 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 228,
-    "timeDay": 292,
+    "timeDay": 283,
     "timeWeek": 244,
-    "timeMonth": 253,
+    "timeMonth": 252,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2025-07-31": 25,
       "2025-07-29": 33,
       "2024-10-22": 23
     }
+  },
+  {
+    "name": "Tigefa.dev",
+    "url": "https://tigefa.dev",
+    "icon": "https://tigefa.dev/favicon.ico",
+    "slug": "tigefa-dev",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 225,
+    "timeDay": 225,
+    "timeWeek": 225,
+    "timeMonth": 225,
+    "timeYear": 225,
+    "dailyMinutesDown": {}
   }
 ]
