@@ -19,6 +19,9 @@ sites:
   - name: Tigefa.download
     url: https://tigefa.download
     icon: https://tigefa.download/favicon.ico
+  - name: Suge.ng
+    url: https://suge.ng
+    icon: https://tigefa.dev/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -35,7 +38,7 @@ status-website:
     - title: Status
       href: /
     - title: Tigefa
-      href: https://tigefa.web.id
+      href: https://tigefa.dev
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
