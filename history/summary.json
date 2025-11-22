@@ -11,9 +11,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 311,
-    "timeDay": 282,
-    "timeWeek": 310,
-    "timeMonth": 309,
+    "timeDay": 376,
+    "timeWeek": 315,
+    "timeMonth": 314,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2025-11-18": 83
@@ -30,11 +30,11 @@
     "uptimeWeek": "98.61%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
-    "time": 316,
-    "timeDay": 326,
-    "timeWeek": 312,
-    "timeMonth": 295,
-    "timeYear": 334,
+    "time": 317,
+    "timeDay": 348,
+    "timeWeek": 323,
+    "timeMonth": 301,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2025-11-18": 140
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.93%",
     "time": 226,
-    "timeDay": 327,
-    "timeWeek": 269,
-    "timeMonth": 251,
+    "timeDay": 279,
+    "timeWeek": 267,
+    "timeMonth": 254,
     "timeYear": 241,
     "dailyMinutesDown": {
       "2025-11-18": 89,
@@ -78,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 138,
-    "timeWeek": 216,
-    "timeMonth": 219,
-    "timeYear": 227,
+    "time": 226,
+    "timeDay": 192,
+    "timeWeek": 193,
+    "timeMonth": 216,
+    "timeYear": 226,
     "dailyMinutesDown": {}
   },
   {
@@ -96,11 +96,11 @@
     "uptimeWeek": "98.64%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.90%",
-    "time": 364,
-    "timeDay": 347,
-    "timeWeek": 302,
-    "timeMonth": 311,
-    "timeYear": 364,
+    "time": 367,
+    "timeDay": 684,
+    "timeWeek": 366,
+    "timeMonth": 327,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2025-11-18": 137
     }
@@ -111,16 +111,16 @@
     "icon": "https://tigefa.dev/favicon.ico",
     "slug": "suge-ng",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
-    "time": 365,
-    "timeDay": 310,
-    "timeWeek": 407,
-    "timeMonth": 365,
-    "timeYear": 365,
+    "uptimeYear": "99.79%",
+    "time": 376,
+    "timeDay": 658,
+    "timeWeek": 469,
+    "timeMonth": 383,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2025-11-18": 95
     }
