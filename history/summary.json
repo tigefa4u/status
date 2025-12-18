@@ -11,9 +11,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 314,
-    "timeDay": 269,
-    "timeWeek": 337,
-    "timeMonth": 325,
+    "timeDay": 331,
+    "timeWeek": 324,
+    "timeMonth": 323,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2025-11-18": 83
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
     "time": 320,
-    "timeDay": 274,
-    "timeWeek": 316,
-    "timeMonth": 331,
-    "timeYear": 341,
+    "timeDay": 331,
+    "timeWeek": 323,
+    "timeMonth": 328,
+    "timeYear": 342,
     "dailyMinutesDown": {
       "2025-11-18": 140
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.93%",
     "time": 228,
-    "timeDay": 94,
-    "timeWeek": 257,
-    "timeMonth": 238,
+    "timeDay": 364,
+    "timeWeek": 262,
+    "timeMonth": 241,
     "timeYear": 241,
     "dailyMinutesDown": {
       "2025-11-18": 89,
@@ -79,9 +79,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 224,
-    "timeWeek": 204,
-    "timeMonth": 201,
+    "timeDay": 287,
+    "timeWeek": 211,
+    "timeMonth": 202,
     "timeYear": 222,
     "dailyMinutesDown": {}
   },
@@ -97,9 +97,9 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.92%",
     "time": 360,
-    "timeDay": 510,
-    "timeWeek": 288,
-    "timeMonth": 330,
+    "timeDay": 384,
+    "timeWeek": 318,
+    "timeMonth": 335,
     "timeYear": 360,
     "dailyMinutesDown": {
       "2025-11-18": 137
@@ -111,16 +111,16 @@
     "icon": "https://tigefa.dev/favicon.ico",
     "slug": "suge-ng",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "99.88%",
-    "time": 401,
-    "timeDay": 365,
-    "timeWeek": 522,
-    "timeMonth": 441,
-    "timeYear": 401,
+    "uptimeYear": "99.89%",
+    "time": 399,
+    "timeDay": 282,
+    "timeWeek": 530,
+    "timeMonth": 432,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2025-11-18": 95
     }
