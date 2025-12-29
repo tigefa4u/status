@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 313,
-    "timeDay": 410,
-    "timeWeek": 271,
+    "timeDay": 158,
+    "timeWeek": 227,
     "timeMonth": 315,
-    "timeYear": 338,
+    "timeYear": 325,
     "dailyMinutesDown": {
       "2025-11-18": 83
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 320,
-    "timeDay": 325,
-    "timeWeek": 296,
-    "timeMonth": 319,
+    "timeDay": 141,
+    "timeWeek": 266,
+    "timeMonth": 314,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2025-11-18": 140
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 229,
-    "timeDay": 355,
-    "timeWeek": 275,
-    "timeMonth": 242,
+    "time": 230,
+    "timeDay": 330,
+    "timeWeek": 264,
+    "timeMonth": 251,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2025-11-18": 89,
@@ -78,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 221,
-    "timeDay": 185,
-    "timeWeek": 191,
-    "timeMonth": 208,
-    "timeYear": 221,
+    "time": 220,
+    "timeDay": 183,
+    "timeWeek": 188,
+    "timeMonth": 202,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   },
   {
@@ -96,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 357,
-    "timeDay": 296,
-    "timeWeek": 297,
-    "timeMonth": 319,
-    "timeYear": 357,
+    "time": 355,
+    "timeDay": 107,
+    "timeWeek": 233,
+    "timeMonth": 313,
+    "timeYear": 355,
     "dailyMinutesDown": {
       "2025-11-18": 137
     }
@@ -116,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 425,
-    "timeDay": 282,
-    "timeWeek": 700,
-    "timeMonth": 485,
-    "timeYear": 425,
+    "time": 422,
+    "timeDay": 224,
+    "timeWeek": 581,
+    "timeMonth": 476,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2025-11-18": 95
     }
