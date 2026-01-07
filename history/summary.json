@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 313,
-    "timeDay": 370,
-    "timeWeek": 321,
-    "timeMonth": 317,
+    "timeDay": 317,
+    "timeWeek": 318,
+    "timeMonth": 307,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2025-11-18": 83
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 320,
-    "timeDay": 266,
-    "timeWeek": 325,
-    "timeMonth": 312,
-    "timeYear": 341,
+    "time": 321,
+    "timeDay": 299,
+    "timeWeek": 314,
+    "timeMonth": 306,
+    "timeYear": 342,
     "dailyMinutesDown": {
       "2025-11-18": 140
     }
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 230,
-    "timeDay": 360,
-    "timeWeek": 258,
-    "timeMonth": 261,
+    "time": 231,
+    "timeDay": 209,
+    "timeWeek": 265,
+    "timeMonth": 262,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2025-11-18": 89,
@@ -78,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 187,
-    "timeWeek": 193,
-    "timeMonth": 200,
-    "timeYear": 219,
+    "time": 220,
+    "timeDay": 309,
+    "timeWeek": 222,
+    "timeMonth": 205,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   },
   {
@@ -97,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 356,
-    "timeDay": 517,
-    "timeWeek": 374,
-    "timeMonth": 319,
+    "timeDay": 416,
+    "timeWeek": 401,
+    "timeMonth": 314,
     "timeYear": 356,
     "dailyMinutesDown": {
       "2025-11-18": 137
@@ -111,16 +111,16 @@
     "icon": "https://tigefa.dev/favicon.ico",
     "slug": "suge-ng",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 441,
-    "timeDay": 1008,
-    "timeWeek": 652,
-    "timeMonth": 534,
-    "timeYear": 441,
+    "uptimeYear": "99.92%",
+    "time": 442,
+    "timeDay": 409,
+    "timeWeek": 663,
+    "timeMonth": 544,
+    "timeYear": 442,
     "dailyMinutesDown": {
       "2025-11-18": 95
     }
