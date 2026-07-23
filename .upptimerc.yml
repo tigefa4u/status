@@ -19,6 +19,9 @@ sites:
   - name: Tigefa.download
     url: https://tigefa.download
     icon: https://tigefa.download/favicon.ico
+  - name: Tigefa.win
+    url: https://tigefa.win
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
   - name: Suge.ng
     url: https://suge.ng
     icon: https://tigefa.dev/favicon.ico
