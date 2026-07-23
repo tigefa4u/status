@@ -22,6 +22,9 @@ sites:
   - name: Tigefa.win
     url: https://tigefa.win
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
+  - name: Tigefa.top
+    url: https://tigefa.top
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
   - name: Suge.ng
     url: https://suge.ng
     icon: https://tigefa.dev/favicon.ico
