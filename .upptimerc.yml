@@ -10,9 +10,6 @@ sites:
   - name: Tigefa.web.id
     url: https://tigefa.web.id
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
-  - name: cekip.my.id
-    url: https://cekip.my.id
-    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
   - name: Tigefa.dev
     url: https://tigefa.dev
     icon: https://tigefa.dev/favicon.ico
