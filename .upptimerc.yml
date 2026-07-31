@@ -1,6 +1,6 @@
 owner: tigefa4u # Your GitHub organization or username, where this repository lives
 repo: status # The name of this repository
-runner: [ubuntu-latest]
+runner: [self-hosted]
 user-agent: tigefa4u
 
 sites:
@@ -21,6 +21,9 @@ sites:
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
   - name: Tigefa.top
     url: https://tigefa.top
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
+  - name: Sugeng.win
+    url: https://sugeng.win
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
   - name: Suge.ng
     url: https://suge.ng
