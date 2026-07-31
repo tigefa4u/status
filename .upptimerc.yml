@@ -12,10 +12,10 @@ sites:
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
   - name: Tigefa.dev
     url: https://tigefa.dev
-    icon: https://tigefa.dev/favicon.ico
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
   - name: Tigefa.download
     url: https://tigefa.download
-    icon: https://tigefa.download/favicon.ico
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
   - name: Tigefa.win
     url: https://tigefa.win
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
@@ -24,7 +24,7 @@ sites:
     icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
   - name: Suge.ng
     url: https://suge.ng
-    icon: https://tigefa.dev/favicon.ico
+    icon: https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
