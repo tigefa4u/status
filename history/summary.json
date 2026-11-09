@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 324,
-    "timeDay": 226,
+    "timeDay": 355,
     "timeWeek": 358,
-    "timeMonth": 392,
+    "timeMonth": 328,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2025-11-18": 83
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 340,
-    "timeDay": 142,
-    "timeWeek": 250,
+    "timeDay": 303,
+    "timeWeek": 238,
     "timeMonth": 304,
-    "timeYear": 317,
+    "timeYear": 318,
     "dailyMinutesDown": {
       "2025-11-18": 140
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 182,
-    "timeWeek": 235,
-    "timeMonth": 258,
+    "timeDay": 189,
+    "timeWeek": 221,
+    "timeMonth": 255,
     "timeYear": 203,
     "dailyMinutesDown": {}
   },
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 317,
-    "timeDay": 500,
-    "timeWeek": 313,
-    "timeMonth": 329,
-    "timeYear": 301,
+    "timeDay": 98,
+    "timeWeek": 306,
+    "timeMonth": 326,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2025-11-18": 137,
       "2026-02-24": 47
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 106,
-    "timeWeek": 177,
-    "timeMonth": 206,
-    "timeYear": 195,
+    "time": 203,
+    "timeDay": 487,
+    "timeWeek": 224,
+    "timeMonth": 214,
+    "timeYear": 198,
     "dailyMinutesDown": {}
   },
   {
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 375,
-    "timeDay": 162,
-    "timeWeek": 330,
-    "timeMonth": 409,
-    "timeYear": 375,
+    "time": 373,
+    "timeDay": 221,
+    "timeWeek": 301,
+    "timeMonth": 402,
+    "timeYear": 373,
     "dailyMinutesDown": {}
   },
   {
@@ -120,16 +120,16 @@
     "icon": "https://raw.githubusercontent.com/tigefa4u/status/master/assets/favicon-32x32.png",
     "slug": "sugeng-win",
     "status": "up",
-    "uptime": "6.63%",
+    "uptime": "7.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 489,
-    "timeWeek": 249,
-    "timeMonth": 285,
-    "timeYear": 251,
+    "time": 209,
+    "timeDay": 404,
+    "timeWeek": 279,
+    "timeMonth": 288,
+    "timeYear": 252,
     "dailyMinutesDown": {}
   },
   {
@@ -143,11 +143,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 467,
-    "timeDay": 791,
-    "timeWeek": 606,
-    "timeMonth": 783,
-    "timeYear": 473,
+    "time": 468,
+    "timeDay": 761,
+    "timeWeek": 655,
+    "timeMonth": 785,
+    "timeYear": 475,
     "dailyMinutesDown": {
       "2025-11-18": 95
     }
